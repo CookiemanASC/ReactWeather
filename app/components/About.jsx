@@ -17,7 +17,7 @@ var React = require('react');
 var About = (props) => {
     return (
     <div>
-        <h1 className="text-center">About</h1>
+        <h1 className="text-center page-title">About</h1>
         <div className="card">
             <div className="card-divider">About React Weather</div>
             <div className="card-image">
